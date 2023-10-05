@@ -9,19 +9,19 @@ This indicator pack includes
 ## Credits and Thank yous
 
 **Ut bot Alerts **
-* by QuantNomad *
-- https://tr.tradingview.com/v/n8ss8BID/
+\- by QuantNomad
+ \+ https://tr.tradingview.com/v/n8ss8BID/
 
 ** Bj SuperScript **
-* by Bjorgum *
-- https://tr.tradingview.com/v/dRvnp3hs/
+\- by Bjorgum 
+ \+ https://tr.tradingview.com/v/dRvnp3hs/
 
 
 ** Smart Money Concepts Probability (Expo) **
-* by zeiierman *
-- https://tr.tradingview.com/v/mBINsJlf/
+\- by zeiierman *
+ \+ https://tr.tradingview.com/v/mBINsJlf/
 
 
-for https://twitter.com/SKENDERKARATA/status/1709627801240825982
+\-  [for SKENDERKARATA] (https://twitter.com/SKENDERKARATA/status/1709627801240825982)
 ---------------------------------
 
