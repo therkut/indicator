@@ -1,10 +1,10 @@
 # indicator
 
 ## UBS_Toolbox 
-This indicator pack includes
 
-** Ut bot Alerts, Bj SuperScript, Smart Money ** 
+**This indicator pack includes**
 
+Ut bot Alerts, Bj SuperScript, Smart Money
 
 ## Credits and Thank yous
 
