@@ -1,5 +1,3 @@
-# indicator
-
 ## UBS_Toolbox 
 
 **This indicator pack includes**
