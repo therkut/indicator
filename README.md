@@ -4,7 +4,7 @@
 
 Ut bot Alerts, Bj SuperScript, Smart Money
 
-## Credits and Thank yous
+### Credits and Thank yous
 
 - Ut bot Alerts `by QuantNomad` _([see source](https://tr.tradingview.com/v/n8ss8BID/))_
 
